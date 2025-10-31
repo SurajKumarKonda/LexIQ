@@ -1,0 +1,14 @@
+torch
+transformers
+datasets
+accelerate
+peft
+unsloth
+langchain
+evaluate
+rouge-score
+sentencepiece
+tqdm
+jsonlines
+numpy
+pandas
